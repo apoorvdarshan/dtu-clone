@@ -6,6 +6,10 @@ Cyberpunk-inspired DTU website with neural networks, quantum computing interface
 
 **🎬 [Live Demo →](https://apoorvdarshan.github.io/dtu-clone/)** | **📦 [Source Code →](https://github.com/apoorvdarshan/dtu-clone)**
 
+## 📸 Preview
+
+https://github.com/user-attachments/assets/899672a5-af60-4cb5-96c4-690bf63f9a88
+
 ## ✨ What's Inside
 
 - 🧠 **Neural Network Visualization** - Real-time brain waves
