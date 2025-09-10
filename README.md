@@ -61,7 +61,7 @@ If this made you feel like a cyberpunk hacker, smash that star button! ⭐
 - **🐦 [Twitter](https://x.com/apoorvdarshan)**
 - **💼 [LinkedIn](https://linkedin.com/in/apoorvdarshan)**
 - **📺 [YouTube](https://youtube.com/@apoorvdarshan)**
-- **📸 [Instagram](https://instagram.com/apoorvdarshan)**
+- **📸 [Instagram](https://instagram.com/apoorvcode)**
 
 ---
 
@@ -72,3 +72,4 @@ If this made you feel like a cyberpunk hacker, smash that star button! ⭐
 > _"In the year 2024, a simple university website became sentient and decided it wanted to look cooler than the Matrix. This is that website."_
 >
 > — _Anonymous Cyberpunk Developer, probably from the future_ 🤖✨
+
