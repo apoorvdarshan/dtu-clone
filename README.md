@@ -58,10 +58,10 @@ If this made you feel like a cyberpunk hacker, smash that star button! ⭐
 
 - **🏠 [Project](https://github.com/aopv/dtu-clone)**
 - **👨‍💻 [GitHub](https://github.com/aopv)**
-- **🐦 [Twitter](https://x.com/apoorvdarshan)**
-- **💼 [LinkedIn](https://linkedin.com/in/apoorvdarshan)**
-- **📺 [YouTube](https://youtube.com/@apoorvdarshan)**
-- **📸 [Instagram](https://instagram.com/apoorvcode)**
+- **🐦 [Twitter](https://x.com/aporvv)**
+- **💼 [LinkedIn](https://www.linkedin.com/in/aopv/)**
+- **📺 [YouTube](https://www.youtube.com/@aopv)**
+- **📸 [Instagram](https://www.instagram.com/aporvvv)**
 
 ---
 
