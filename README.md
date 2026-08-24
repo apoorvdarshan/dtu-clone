@@ -4,7 +4,7 @@ Cyberpunk-inspired DTU website with neural networks, quantum computing interface
 
 ## 🌐 Quick Access
 
-**🎬 [Live Demo →](https://dtu-clone.aopv.dev)** | **📦 [Source Code →](https://github.com/aopv/dtu-clone)**
+**🎬 [Live Demo →](https://dtu-clone.apoorvdarshan.com)** | **📦 [Source Code →](https://github.com/apoorvdarshan/dtu-clone)**
 
 ## 📸 Preview
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/899672a5-af60-4cb5-96c4-690bf63f9a88
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/aopv/dtu-clone.git
+git clone https://github.com/apoorvdarshan/dtu-clone.git
 cd dtu-clone
 # Open index.html in browser
 # Wait for quantum systems to initialize 😄
@@ -56,12 +56,12 @@ If this made you feel like a cyberpunk hacker, smash that star button! ⭐
 
 ## 🔗 Connect
 
-- **🏠 [Project](https://github.com/aopv/dtu-clone)**
-- **👨‍💻 [GitHub](https://github.com/aopv)**
-- **🐦 [Twitter](https://x.com/aporvv)**
-- **💼 [LinkedIn](https://www.linkedin.com/in/aopv/)**
-- **📺 [YouTube](https://www.youtube.com/@aopv)**
-- **📸 [Instagram](https://www.instagram.com/aporvvv)**
+- **🏠 [Project](https://github.com/apoorvdarshan/dtu-clone)**
+- **👨‍💻 [GitHub](https://github.com/apoorvdarshan)**
+- **🐦 [Twitter](https://x.com/apoorvdarshan)**
+- **💼 [LinkedIn](https://www.linkedin.com/in/apoorvdarshan/)**
+- **📺 [YouTube](https://www.youtube.com/@apoorvdarshan)**
+- **📸 [Instagram](https://www.instagram.com/apoorvdarshan)**
 
 ---
 

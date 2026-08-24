@@ -1263,7 +1263,7 @@ function initializeImportantLinks() {
 function initializeVisitCounter() {
   const visitCountElement = document.getElementById("visit-count");
   const apiUrl =
-    "https://api.countapi.xyz/hit/dtu-clone.aopv.dev/visits";
+    "https://api.countapi.xyz/hit/dtu-clone.apoorvdarshan.com/visits";
 
   if (!visitCountElement) return;
 
