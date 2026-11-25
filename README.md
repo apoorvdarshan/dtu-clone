@@ -61,7 +61,7 @@ If this made you feel like a cyberpunk hacker, smash that star button! ⭐
 - **🐦 [Twitter](https://x.com/apoorvdarshan)**
 - **💼 [LinkedIn](https://www.linkedin.com/in/apoorvdarshan/)**
 - **📺 [YouTube](https://www.youtube.com/@apoorvdarshan)**
-- **📸 [Instagram](https://www.instagram.com/apoorvcodes)**
+- **📸 [Instagram](https://www.instagram.com/apoorvxi)**
 
 ---
 
